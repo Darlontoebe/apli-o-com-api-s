@@ -31,6 +31,9 @@ Praticar consumo de APIs, manipulação do DOM e criação de uma interface limp
 3. Veja todas as informações na tela
 
 ---
+### 🎯 Link do Projeto
+
+→ **[Acessar o projeto online](https://app.netlify.com/projects/testando-apis/overview)**
 
 ### 📸 Preview
 
